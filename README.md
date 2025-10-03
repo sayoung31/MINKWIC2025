@@ -1,4 +1,4 @@
-# MINKWIC2025
+# MINKWIC2025 sophia young <3
 A demo repository for MINKWIC 2025 workshop
 
 ## GitHub and Markdown Guides
